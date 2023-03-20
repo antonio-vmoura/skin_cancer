@@ -4,8 +4,12 @@ Pillow
 Cython
 matplotlib
 scikit-image
+<<<<<<< HEAD:models/mask_rcnn/requirements.txt
 tensorflow==2.11.0
 keras==2.11.0
+=======
+tensorflow>=2.2.0
+>>>>>>> 0625bdbc92fa089665132027d69d57017e1187b1:requirements.txt
 opencv-python
 h5py==3.8.0
 imgaug
