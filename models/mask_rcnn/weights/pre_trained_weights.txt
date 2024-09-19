@@ -1,1 +1,0 @@
-Download the pre-trained weights inside the root directory. The weights can be downloaded from this link: https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5.
