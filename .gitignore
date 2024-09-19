@@ -129,18 +129,7 @@ dmypy.json
 .pyre/
 
 # Assets
-<<<<<<< HEAD
-assets/dataset
-assets/logs
-assets/weights
-virtual_env
-models/mask_rcnn/weights/mask_rcnn_coco.h5
-
-
-*.Identifier
-=======
 assets/img_dataset/*
 assets/numpy_dataset/*
 models/mask_rcnn/weights/*
 models/unet/weights/*
->>>>>>> 0625bdbc92fa089665132027d69d57017e1187b1
